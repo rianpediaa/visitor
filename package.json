@@ -4,7 +4,7 @@
   "description": "API untuk manajemen pengunjung dengan MongoDB",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
